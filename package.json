@@ -1,0 +1,24 @@
+{
+  "name": "taskapp",
+  "version": "1.0.0",
+  "description": "Learning Js, CSS3 and HTML5 ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michaeljaems/Task-App-with-JS-and-CSS.git"
+  },
+  "keywords": [
+    "JavaScript",
+    "CSS3",
+    "HTML5"
+  ],
+  "author": "Michael A. Momo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/michaeljaems/Task-App-with-JS-and-CSS/issues"
+  },
+  "homepage": "https://github.com/michaeljaems/Task-App-with-JS-and-CSS#readme"
+}
